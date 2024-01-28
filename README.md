@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **ReactJS, NodeJS, Django, MaterialUI, Ant Design, GraphQL, CSS, HTML, PostMan, Node-Red, C++, Android Programming (Java)**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13AJF9ub6hBn7t9T3wwM6blsrrTip8cdg/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GFAPA3Dylkqo7Te700DlG_fEnX95WqN6/view?usp=drive_link)
 
 I have created multiple repositories and structured them inside different organizations you can explore each repository by navigating to the respective organization
 
