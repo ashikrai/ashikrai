@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
  </p>
   
  
- | Full Stack                         | Styling                     | Programming Languages          | Tools                        | Media Editors                          | Media Editors                     |
+ | Full Stack                         | Styling                     | Programming Languages          | Tools                        | Media Editors                          | IDE                               |
  | -------------------------------    | ----------------------------| ------------------------------ | -----------------------------| ------------------------------         | ----------------------------------|
  | [![React][React.js]][React-url]    | [![Ad][Ant-Design]][Ant-url]| [![Andr][Android]][Android-url]| [![Git][Git]][dummy-url]     | [![Ps][Adobe Photoshop]][dummy-url]    | [![VS][Visual Studio]][dummy-url] |
  | [![Node][Node.js]][Node-url]       | [![MUI][MUI]][MUI-url]      | [![C][C]][dummy-url]           | [![Latex][Latex]][dummy-url] | [![Pro][Adobe Premiere Pro]][dummy-url]| [![AS][Android Studio]][dummy-url]|
@@ -57,6 +57,7 @@ You can click the Preview link to take a look at your changes.
  | [![JS][JavaScript]][JavaScript-url]|                             |                                |                              |                                        |                                   |
  | [![NodeMon][nodemon]][Nodemon-url] |                             |                                |                              |                                        |                                   |
  | [![django][Django]][dummy-url]     |                             |                                |                              |                                        |                                   |
+ | [![MongoDB][MongoDB]][dummy-url]   |                             |                                |                              |                                        |                                   |
  
 
 </div>
@@ -184,3 +185,5 @@ You can click the Preview link to take a look at your changes.
 [Visual Studio]: https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white
 [Android Studio]: https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white
 [Eclipse]: https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white
+
+[MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
