@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
  | [![Node][Node.js]][Node-url]       | [![MUI][MUI]][MUI-url]      | [![C][C]][dummy-url]           | [![Latex][Latex]][dummy-url] | [![Pro][Adobe Premiere Pro]][dummy-url]| [![AS][Android Studio]][dummy-url]|
  | [![Exp][Express.js]][Express-url]  | [![Html][HTML5]][dummy-url] | [![C++][C++]][dummy-url]       | [![NDR][Node-RED]][dummy-url]| [![AE][Adobe After Effects]][dummy-url]| [![EC][Eclipse]][dummy-url]       |
  | [![Redux][redux]][Redux-url]       | [![CSS][CSS3]][dummy-url]   | [![python][Python]][dummy-url] | [![PM][Postman]][dummy-url]  |                                        |                                   |
- | [![GraphQL][graphQL]][GraphQL-url] |                             |                                |                              |                                        |                                   |
+ | [![GraphQL][graphQL]][GraphQL-url] |[![prtr][prettier]][prtr-url]|                                |                              |                                        |                                   |
  | [![JS][JavaScript]][JavaScript-url]|                             |                                |                              |                                        |                                   |
  | [![NodeMon][nodemon]][Nodemon-url] |                             |                                |                              |                                        |                                   |
  | [![django][Django]][dummy-url]     |                             |                                |                              |                                        |                                   |
@@ -187,3 +187,6 @@ You can click the Preview link to take a look at your changes.
 [Eclipse]: https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white
 
 [MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+
+[prettier]: https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square
+[prtr-url]: https://github.com/prettier/prettier
