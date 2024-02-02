@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
  | [![Node][Node.js]][Node-url]       | [![MUI][MUI]][MUI-url]      | [![C][C]][dummy-url]           | [![Latex][Latex]][dummy-url] | [![Pro][Adobe Premiere Pro]][dummy-url]| [![AS][Android Studio]][dummy-url]|
  | [![Exp][Express.js]][Express-url]  | [![Html][HTML5]][dummy-url] | [![C++][C++]][dummy-url]       | [![NDR][Node-RED]][dummy-url]| [![AE][Adobe After Effects]][dummy-url]| [![EC][Eclipse]][dummy-url]       |
  | [![Redux][redux]][Redux-url]       | [![CSS][CSS3]][dummy-url]   | [![python][Python]][dummy-url] | [![PM][Postman]][dummy-url]  |                                        |                                   |
- | [![GraphQL][graphQL]][GraphQL-url] |[![prtr][prettier]][prtr-url]|                                |                              |                                        |                                   |
+ | [![GraphQL][graphQL]][GraphQL-url] |[![prtr][prettier]][prtr-url]|                                |[![Netlify][Netlify]][Ntlf-url]|                                        |                                   |
  | [![JS][JavaScript]][JavaScript-url]|                             |                                |                              |                                        |                                   |
  | [![NodeMon][nodemon]][Nodemon-url] |                             |                                |                              |                                        |                                   |
  | [![django][Django]][dummy-url]     |                             |                                |                              |                                        |                                   |
@@ -190,3 +190,8 @@ You can click the Preview link to take a look at your changes.
 
 [prettier]: https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square
 [prtr-url]: https://github.com/prettier/prettier
+
+
+[Netlify]: https://api.netlify.com/api/v1/badges/de35a326-fb21-4dcc-aeb4-052a5265ef92/deploy-status
+[Ntlf-url]: https://app.netlify.com/sites/kihsa-nexus3/deploys
+
