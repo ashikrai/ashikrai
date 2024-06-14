@@ -30,10 +30,18 @@ You can click the Preview link to take a look at your changes.
   <table>
     <tbody>
      <tr>
+      <td colspan="2">
+        <a href="https://github.com/ashikrai/ImageGallery">
+         <p>IGallery</p>
+         <img src="https://github.com/ashikrai/ashikrai/assets/41672214/d6eb6d9f-989d-4357-a88a-f398c0917a8f" />
+        </a>
+      </td>
+     </tr>
+     <tr>
       <td>
        <a href="https://github.com/ReactJS-Ashik/AshikPortfolio/">
          <p>My Portfolio</p>
-         <img width="500" src="https://github.com/ashikrai/ashikrai/assets/41672214/6ca420ce-cbb5-4754-8587-1c799b696277" />
+         <img width="600" src="https://github.com/ashikrai/ashikrai/assets/41672214/6ca420ce-cbb5-4754-8587-1c799b696277" />
        </a>
       </td>
       <td>
@@ -96,8 +104,8 @@ You can click the Preview link to take a look at your changes.
  | [![Node][Node.js]][Node-url]       | [![MUI][MUI]][MUI-url]      | [![C][C]][dummy-url]           | [![Latex][Latex]][dummy-url] | [![Pro][Adobe Premiere Pro]][dummy-url]| [![AS][Android Studio]][dummy-url]|
  | [![Exp][Express.js]][Express-url]  | [![Html][HTML5]][dummy-url] | [![C++][C++]][dummy-url]       | [![NDR][Node-RED]][dummy-url]| [![AE][Adobe After Effects]][dummy-url]| [![EC][Eclipse]][dummy-url]       |
  | [![Redux][redux]][Redux-url]       | [![CSS][CSS3]][dummy-url]   | [![python][Python]][dummy-url] | [![PM][Postman]][dummy-url]  |                                        |                                   |
- | [![GraphQL][graphQL]][GraphQL-url] |[![prtr][prettier]][prtr-url]|                                |[![Netlify][Netlify]][Ntlf-url]|                                        |                                   |
- | [![JS][JavaScript]][JavaScript-url]|                             |                                |                              |                                        |                                   |
+ | [![GraphQL][graphQL]][GraphQL-url] |[![prtr][prettier]][prtr-url]| [![Redis][Redis]][Redis-url]   |[![Netlify][Netlify]][Ntlf-url]|                                        |                                   |
+ | [![JS][JavaScript]][JavaScript-url]| [![SASS][SASS]][SASS-url]  |                                |                              |                                        |                                   |
  | [![NodeMon][nodemon]][Nodemon-url] |                             |                                |                              |                                        |                                   |
  | [![django][Django]][dummy-url]     |                             |                                |                              |                                        |                                   |
  | [![MongoDB][MongoDB]][dummy-url]   |                             |                                |                              |                                        |                                   |
@@ -238,3 +246,9 @@ You can click the Preview link to take a look at your changes.
 [Netlify]: https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7
 [Ntlf-url]: https://app.netlify.com/sites/kihsa-nexus3/deploys
 
+
+[Redis]: https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white
+[Redis-url]: https://redis.io/
+
+[SASS]: https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
+[SASS-url]: https://sass-lang.com/
