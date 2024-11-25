@@ -54,7 +54,8 @@ You can click the Preview link to take a look at your changes.
        <h1>
         <a href="https://github.com/ashikrai/ReactJS-Virtualized-Render-Optimized">
           3. React Render Optimization
-          <img src="https://github.com/user-attachments/assets/bc3babc8-79d1-4107-8abb-a93f2ea53857" />
+          <img src="https://github.com/user-attachments/assets/51debe57-ca40-4aad-a42a-f94f30f50c3c"/>
+<!--           <img src="https://github.com/user-attachments/assets/f9684fb9-a708-4289-a703-c29b6ff34981" /> -->
         </a>
        </h1>
       </td>
